@@ -1,0 +1,38 @@
+[
+    {
+        "firstName": "BELEMA",
+        "lastName": "EMMANUELLA",
+        "username": "BELEM",
+        "password": "1234",
+        "email": "BELEMA@GMAIL.COM",
+        "phoneNumber": "09068211572",
+        "accountNumber": 1234567890,
+        "accountBal": 0,
+        "transactions": [],
+        "isLoggedIn": false
+    },
+    {
+        "firstName": "EMMANUEL",
+        "lastName": "KUKURU",
+        "username": "EBIS",
+        "password": "1212",
+        "email": "EMMANUEL@GMAIL",
+        "phoneNumber": "09015816285",
+        "accountNumber": 1234567891,
+        "accountBal": 0,
+        "transactions": [],
+        "isLoggedIn": false
+    },
+    {
+        "firstName": "DEBORAH",
+        "lastName": "AMAH",
+        "username": "DEE",
+        "password": "1010",
+        "email": "DEBORAH@GMAIL.COM",
+        "phoneNumber": "07040810782",
+        "accountNumber": 1234567892,
+        "accountBal": 0,
+        "transactions": [],
+        "isLoggedIn": false
+    }
+]
